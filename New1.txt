@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ssssssssssssssssssxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-=======
-qwert
->>>>>>> 84f412cf0a0f581047dd9ac78f2ba8f02d620647
+ HEAD
